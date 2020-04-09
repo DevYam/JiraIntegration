@@ -1,0 +1,5 @@
+---
+applications:
+  - name: JIVA
+    host: JIVA-Service
+    path: target/Spring-Boot-REST-0.0.1-SNAPSHOT.war
